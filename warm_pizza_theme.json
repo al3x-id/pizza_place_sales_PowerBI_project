@@ -1,0 +1,57 @@
+{
+    "name": "Warm Pizza Theme",
+    "dataColors": [
+        "#C1440E",
+        "#FFB347",
+        "#FF6961",
+        "#FFD700",
+        "#C9A66B"
+    ],
+    "background": "#FFF8F0",
+    "foreground": "#333333",
+    "tableAccent": "#C1440E",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "titleText": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#333333"
+                            }
+                        },
+                        "fontSize": 14
+                    }
+                ],
+                "labels": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#333333"
+                            }
+                        }
+                    }
+                ],
+                "background": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#FFF8F0"
+                            }
+                        },
+                        "transparency": 0
+                    }
+                ],
+                "border": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#C9A66B"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
