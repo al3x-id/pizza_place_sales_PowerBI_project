@@ -60,6 +60,8 @@ Dataset: [Kaggle - Pizza Sales Dataset](https://www.kaggle.com/datasets/mysarahm
 ---
 
 ## Key Insights
+### Dashboard
+![Dashboard](pizza_place_dashboard.png)
 
 * **Total Revenue**: \$818K
 * **Top-Selling Pizza**: The Thai Chicken Pizza (\~\$43K revenue)
